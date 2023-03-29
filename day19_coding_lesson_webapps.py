@@ -10,7 +10,7 @@ def add_todo():
 
 
 st.title("My Todo App")
-st.subheader("This is my to-do app.")
+st.subheader("To-do app by Lyn.")
 st.write("This app is to increase your productivity")
 
 for index, todo in enumerate(todos):
@@ -24,6 +24,5 @@ for index, todo in enumerate(todos):
 
 st.text_input(label="Enter a to-do", placeholder="Add new to-do...",
               on_change=add_todo, key='new_todo')
-# st.session_state #contain widgets information, checkboxes has no key yet so that is why it is not showing up in the session state
-# #to
+#
 
