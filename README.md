@@ -1,5 +1,7 @@
 # mini-project_streamlit
-Project solely for programs using Streamlit for web deployment
+Project solely for programs using Streamlit 
+
+Public for web deployment purposes
 
 APP SUCCESSFULLY DEPLOYED VIA STREAMLIT
 
